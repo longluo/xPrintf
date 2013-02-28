@@ -1,20 +1,20 @@
- xPrintf
+  xPrintf
 =================================
 
 The xPrintf Show the details of PRINTF function in the library of stdio. 
 You can know the implements of PRINTF function and how to write the PRINTF function without 
 the help of C library.   
 
-You can also rely my two blogs(Written In Chinese):  
+### You can also rely my two blogs(Written In Chinese):  
 
-1. ÉîÈëÆÊÎöprintfº¯Êý(ÉÏ)£ºÈçºÎ²»½èÖúµÚÈý·½¿âÔÚÆÁÄ»ÉÏÊä³ö"Hello World"? 
+1. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½printfï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½ï¿½Î²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"Hello World"? 
   http://blog.csdn.net/tcpipstack/article/details/8490811  
 
-2. ÉîÈëÆÊÎöprintfº¯Êý(ÏÂ)£º---ÐÎ²ÎÁÐ±íºÍ¸ñÊ½»¯Êä³öÊÇÈçºÎ×öµ½µÄ£¿ 
+2. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½printfï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½)ï¿½ï¿½---ï¿½Î²ï¿½ï¿½Ð±ï¿½ï¿½Í¸ï¿½Ê½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ 
   http://blog.csdn.net/tcpipstack/article/details/8279584  
  
 
- Any questions please contact with me.  
- Have fun :-)
+### Any questions please contact with me.  
+### Have fun :-)
  
  
